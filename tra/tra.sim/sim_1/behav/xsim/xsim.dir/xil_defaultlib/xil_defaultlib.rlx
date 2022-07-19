@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/training/training_myself/single_layer_perceptron/src/add1.v,1657776447,verilog,,C:/training/training_myself/single_layer_perceptron/src/add2.v,,add1,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/add2.v,1657779874,verilog,,C:/training/training_myself/single_layer_perceptron/src/comp.v,,add2,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/comp.v,1657778271,verilog,,C:/training/training_myself/single_layer_perceptron/src/mul1.v,,comp,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/mul1.v,1657776119,verilog,,C:/training/training_myself/single_layer_perceptron/src/mul2.v,,mul1,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/mul2.v,1657779650,verilog,,C:/training/training_myself/single_layer_perceptron/src/perceptron.v,,mul2,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/perceptron.v,1657781747,verilog,,C:/training/training_myself/single_layer_perceptron/src/register.v,,perceptron,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/register.v,1657777032,verilog,,C:/training/training_myself/single_layer_perceptron/src/step_func.v,,register,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/step_func.v,1657776822,verilog,,C:/training/training_myself/single_layer_perceptron/src/testbench.v,,step_func,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/src/testbench.v,1657783459,verilog,,,,testbench,,,,,,,,
+C:/training/training_myself/single_layer_perceptron/tra/tra.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,

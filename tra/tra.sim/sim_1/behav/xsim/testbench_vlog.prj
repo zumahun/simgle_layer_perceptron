@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../src/add1.v" \
+"../../../../../src/add2.v" \
+"../../../../../src/comp.v" \
+"../../../../../src/mul1.v" \
+"../../../../../src/mul2.v" \
+"../../../../../src/perceptron.v" \
+"../../../../../src/register.v" \
+"../../../../../src/step_func.v" \
+"../../../../../src/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

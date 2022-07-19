@@ -1,0 +1,19 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/add1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/add2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comp
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/mul1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mul1
+WARNING: [VRFC 10-2502] extra semicolon in $unit (global) scope [C:/training/training_myself/single_layer_perceptron/src/mul1.v:7]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/mul2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mul2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/perceptron.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module perceptron
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/step_func.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module step_func
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/training/training_myself/single_layer_perceptron/src/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
